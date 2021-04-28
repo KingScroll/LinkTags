@@ -30,7 +30,7 @@ will output:
   TagLinks Demo</a> by KingScroll (<a href="https://codepen.io/kingscroll">@kingscroll</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
 	
 ## Customization
 If you want to customize LinkTag.js by adding your own social media links, or creating your own parameters, all you have to do is open a code editor and edit the file. 
