@@ -56,8 +56,9 @@ To include LinkTag in your project, all you have to do is download LinkTag.js, o
 	<script defer src = "YourDirectoryHere/LinkTag.js"></script>
 
 ## Roadmap
-[] Clean Up Code & Optimize
-[] Add ability to associate a specific tag with a specific website without having to make an if statement for every single potential person.
+- Clean Up Code & Optimize
+- Add ability to associate a specific tag with a specific website without having to make an if statement for every single potential person.
+
 	In other words, if I tag @juanlam, LinkTag will link to https://juanlam.com instead of https://linktr.ee/juanlam/
 	
 
