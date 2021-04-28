@@ -58,8 +58,18 @@ To include LinkTag in your project, all you have to do is download LinkTag.js, o
 	In other words, if I tag @juanlam, LinkTag will link to https://juanlam.com instead of https://linktr.ee/juanlam/
 	
 ---
-
+# Contributing
 The LinkTag tool is entirely free to use and Open Source. If you want to modify it for your needs, you're encouraged to! I've left extensive comments on my code, so everything should be clear. However, I highly encourage everyone who feels like it could be sharpened up a bit to contribute features or increase performance :)
+
+## How to Contribute
+You can contribute to the LinkTag project by:
+- Report issues and bugs [here](https://github.com/KingScroll/LinkTags/issues)
+- Submit feature requests [here](https://github.com/KingScroll/LinkTags/issues)
+- Create a pull request to help me (Let me know before you do so):
+    * Fix an existing bug, prefix title with `fix: `.
+    * Implement new features, prefix title with `feat: `.
+    * Fix grammar errors or improve my documentations, prefix title with `doc: `.
+    * Anything else should be formatted with `other: ` 
 	
 
 
