@@ -23,6 +23,14 @@ will output:
 
 	<a href = "https://twitter.com/terrycrews/" target = "_blank"> @terrycrews </a>
 	
+## Demo
+
+<p class="codepen" data-height="376" data-theme-id="dark" data-default-tab="html,result" data-user="kingscroll" data-slug-hash="BapejqK" style="height: 376px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="TagLinks Demo">
+  <span>See the Pen <a href="https://codepen.io/kingscroll/pen/BapejqK">
+  TagLinks Demo</a> by KingScroll (<a href="https://codepen.io/kingscroll">@kingscroll</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 	
 ## Customization
 If you want to customize LinkTag.js by adding your own social media links, or creating your own parameters, all you have to do is open a code editor and edit the file. 
