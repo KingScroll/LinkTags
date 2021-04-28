@@ -45,10 +45,6 @@ and then a switch case for it in the __Switch Case__ section.
 		
 and you're done!
 
----
-
-The LinkTag tool is entirely free to use and Open Source. If you want to modify it for your needs, you're encouraged to! I've left extensive comments on my code, so everything should be clear. However, I highly encourage everyone who feels like it could be sharpened up a bit to contribute features or increase performance :)
-
 ## Installation
 
 To include LinkTag in your project, all you have to do is download LinkTag.js, or copy its contents into your own file, and include that file in the <head> of your HTML like so:
@@ -60,6 +56,10 @@ To include LinkTag in your project, all you have to do is download LinkTag.js, o
 - Add ability to associate a specific tag with a specific website without having to make an if statement for every single potential person.
 
 	In other words, if I tag @juanlam, LinkTag will link to https://juanlam.com instead of https://linktr.ee/juanlam/
+	
+---
+
+The LinkTag tool is entirely free to use and Open Source. If you want to modify it for your needs, you're encouraged to! I've left extensive comments on my code, so everything should be clear. However, I highly encourage everyone who feels like it could be sharpened up a bit to contribute features or increase performance :)
 	
 
 
