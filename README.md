@@ -63,11 +63,10 @@ The LinkTag tool is entirely free to use and Open Source. If you want to modify 
 
 ## How to Contribute
 You can contribute to the LinkTag project by:
-- Report issues and bugs [here](https://github.com/KingScroll/LinkTags/issues)
-- Submit feature requests [here](https://github.com/KingScroll/LinkTags/issues)
-- Create a pull request to help me (Let me know before you do so):
-    * Fix an existing bug, prefix title with `fix: `.
-    * Implement new features, prefix title with `feat: `.
+- Reporting issues and bugs, or requesting features [here](https://github.com/KingScroll/LinkTags/issues)
+- Creating a pull request to help me (give me a heads up!):
+    * If you fix an existing bug, prefix title with `fix: `.
+    * If you implement new features, prefix title with `feat: `.
     * Fix grammar errors or improve my documentations, prefix title with `doc: `.
     * Anything else should be formatted with `other: ` 
 	
