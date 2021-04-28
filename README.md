@@ -47,7 +47,7 @@ and you're done!
 
 ## Installation
 
-To include LinkTag in your project, all you have to do is download LinkTag.js, or copy its contents into your own file, and include that file in the <head> of your HTML like so:
+To include LinkTag in your project, all you have to do is download LinkTag.js, or copy its contents into your own file, and include that file in the '<head>' of your HTML like so:
 
 	<script defer src = "YourDirectoryHere/LinkTag.js"></script>
 
