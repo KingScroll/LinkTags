@@ -61,6 +61,7 @@ To include LinkTag in your project, all you have to do is download LinkTag.js, o
 
 ## Roadmap
 - Clean Up Code & Optimize
+- Linking doesn't work if a tag is the last visible character of an element, for some reason -- I want to fix that.
 - Add ability to associate a specific tag with a specific website without having to make an if statement for every single potential person.
 
 	In other words, if I tag @juanlam, LinkTag will link to https://juanlam.com instead of https://linktr.ee/juanlam/
